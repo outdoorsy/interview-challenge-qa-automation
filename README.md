@@ -24,7 +24,7 @@ Your application should be built around the provided `test/interview.spec.js`.
     - Ensure page transitions back to vehicle listing page and the popup is no longer showing
 
 ## Notes
-- You are expected to make your code at the best you can do. It’s not sufficient that it works, please ensure separation of test logic and cases.
+- You are expected to write great code. It’s not sufficient that it works, please ensure separation of test logic and cases.
 - Please make frequent, and descriptive git commits.
 - Use additional third-party libraries or not; your choice.
 - Feel free to add more tests as you have time, but the suite provided is the priority.
