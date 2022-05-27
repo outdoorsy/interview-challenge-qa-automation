@@ -24,17 +24,17 @@ Your application should be built around the provided `test/interview.spec.js`.
     - Ensure page transitions back to vehicle listing page and the popup is no longer showing
 
 ## Notes
-- You are expected to write great code. It’s not sufficient that it works, please ensure separation of test logic and cases.
-- Please make frequent, and descriptive git commits.
+- You are expected to write great code. It’s not sufficient that it works. Please ensure the separation of test logic and cases.
+- Please make frequent and descriptive git commits.
 - Use additional third-party libraries or not; your choice.
 - Feel free to add more tests as you have time, but the suite provided is the priority.
-- In the `package.json` of the project, is described exactly how to run the tests
+- In the package.json of the project, it is described exactly how to run the tests.
 
 ## What we're looking for
 - The functionality of the project matches the description above
-- An ability to think through important potential cases
+- The project indicates you have an ability to think through important potential cases
 
-When complete, please push your code to Github to your own account and send the link to the project or zip the project (including the `.git` directory) and send it back.
+When complete, please push your code to a Github repo in your own account. Send the link to the project or zip the project (including the `.git` directory) and send it back.
 
 Thank you and please ask if you have any questions!
 
